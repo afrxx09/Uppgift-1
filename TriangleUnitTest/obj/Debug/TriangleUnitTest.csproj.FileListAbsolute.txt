@@ -1,0 +1,7 @@
+C:\Users\afrxx09\Documents\GitHub\Uppgift-1\TriangleUnitTest\bin\Debug\TriangleUnitTest.dll
+C:\Users\afrxx09\Documents\GitHub\Uppgift-1\TriangleUnitTest\bin\Debug\TriangleUnitTest.pdb
+C:\Users\afrxx09\Documents\GitHub\Uppgift-1\TriangleUnitTest\bin\Debug\Tri.exe
+C:\Users\afrxx09\Documents\GitHub\Uppgift-1\TriangleUnitTest\bin\Debug\Tri.pdb
+C:\Users\afrxx09\Documents\GitHub\Uppgift-1\TriangleUnitTest\obj\Debug\TriangleUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\afrxx09\Documents\GitHub\Uppgift-1\TriangleUnitTest\obj\Debug\TriangleUnitTest.dll
+C:\Users\afrxx09\Documents\GitHub\Uppgift-1\TriangleUnitTest\obj\Debug\TriangleUnitTest.pdb

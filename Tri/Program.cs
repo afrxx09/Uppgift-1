@@ -10,6 +10,7 @@ namespace Tri
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
